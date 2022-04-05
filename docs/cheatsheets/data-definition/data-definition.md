@@ -6,6 +6,8 @@ The following sections show how to perform various aspects of data definition. W
 docker-compose up --build
 ```
 
+from the folder ../docker
+
 Once running connect to localhost from Microsoft SQL Server Management Studio using the login **sa** and the password **DatabasePassw0rd**
 
 ## Create Table (If it does not exist)
