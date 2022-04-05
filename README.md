@@ -7,8 +7,8 @@ This repository contains information pertaining to working with <Subject> in an 
 
 | Cheat Sheet                       | Description                 |
 | ---------------------------------------| ----------------------------|
-| [Data Definition](./docs/cheatsheets/data-definition/data-definition.md)| Shows how to create database objects s |
-
+| [Data Definition](./docs/cheatsheets/data-definition/data-definition.md)| Shows how to create database objects |
+| [Data Modification](./docs/cheatsheets/data-modification/data-modification.md)| Shows how to modify data |
 
 * [Notes](./docs/notes/README.MD)
 * [Howtos](./docs/howtos/README.MD)
